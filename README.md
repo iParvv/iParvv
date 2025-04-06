@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iParvve&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iParvv&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - Discord: parv.go
